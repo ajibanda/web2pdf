@@ -1,0 +1,8 @@
+tmp
+uploads
+coverage
+node_modules
+.nyc_output
+*.log
+*.BAK
+.env
